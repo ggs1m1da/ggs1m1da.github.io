@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hzb Study Blog</title>
-    <link>https://ggs1m1da.github.io/</link>
-    <description>Recent content on Hzb Study Blog</description>
+    <title>博客标签 on Hzb Study Blog</title>
+    <link>https://ggs1m1da.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE/</link>
+    <description>Recent content in 博客标签 on Hzb Study Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Apr 2022 18:25:35 +0800</lastBuildDate><atom:link href="https://ggs1m1da.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 18:25:35 +0800</lastBuildDate><atom:link href="https://ggs1m1da.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Record</title>
       <link>https://ggs1m1da.github.io/posts/my-post/</link>

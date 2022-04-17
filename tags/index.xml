@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Hzb Study Blog</title>
+    <link>https://ggs1m1da.github.io/tags/</link>
+    <description>Recent content in Tags on Hzb Study Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Apr 2022 18:25:35 +0800</lastBuildDate><atom:link href="https://ggs1m1da.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客标签</title>
+      <link>https://ggs1m1da.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE/</link>
+      <pubDate>Sun, 17 Apr 2022 18:25:35 +0800</pubDate>
+      
+      <guid>https://ggs1m1da.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
